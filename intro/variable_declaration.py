@@ -14,7 +14,7 @@ x = True
 # False The false value of the bool type
 # True The true value of the bool type
 print(type(x))
-x = None
+x = None # constant
 # None The sole value of the type NoneType
 print(type(x))
 
